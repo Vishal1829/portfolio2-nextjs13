@@ -29,7 +29,7 @@ export default function Home() {
           <div className="flex sm:flex-row flex-col items-center sm:gap-16 gap-10 mt-5">
             <Link
               target="_blank"
-              href="https://drive.google.com/file/d/1uCLILRH6jcK0E7wjkWaQTmkCJoqDlp1V/view?usp=sharing"
+              href="https://drive.google.com/file/d/1ZneMgkWDtl1XbDNYu6cyHhomIJbKAZfV/view?usp=sharing"
               className="text-xl font-normal px-5 py-2 bg-violet-600 text-white rounded-full"
             >
               Resume
